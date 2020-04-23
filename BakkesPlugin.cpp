@@ -8,9 +8,7 @@
 
 BAKKESMOD_PLUGIN(BakkesPlugin, "Bakkesmod Skeleton Plugin", "1.0", PLUGINTYPE_FREEPLAY | PLUGINTYPE_CUSTOM_TRAINING)
 
-BakkesPlugin::BakkesPlugin()
-{
-
+BakkesPlugin::BakkesPlugin() {
 }
 
 BakkesPlugin::~BakkesPlugin() {
