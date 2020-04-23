@@ -40,8 +40,6 @@ public:
 
 	virtual void Render(CanvasWrapper canvas);
 
-	void Log(std::string message);
-
 private:
 	// Variables for standard plugin options:
 	// - enabled

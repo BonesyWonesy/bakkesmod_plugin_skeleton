@@ -46,7 +46,7 @@ void BakkesPlugin::onLoad() {
 }
 
 void BakkesPlugin::OnPluginEnabledValueChanged(std::string oldValue, CVarWrapper cvar) {
-	Log(std::string("Plugin enabled value changed"));
+	m_debugLogs.Log(std::string("Plugin enabled value changed"));
 }
 
 void BakkesPlugin::OnFreeplayLoad(std::string eventName)
