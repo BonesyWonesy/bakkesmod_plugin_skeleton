@@ -1,0 +1,18 @@
+BagOBones Plugin
+9|This plugin has a variety of diferent features!
+1|Enable plugin|cl_bones_plugin_enabled
+10|cl_bones_plugin_enabled
+1|Enable Debug Logs|cl_bones_plugin_enableDebugLogs
+1|Enable Juggler|cl_bones_plugin_enableJuggler
+1|Enable Hitbox|cl_bones_plugin_enableHitbox
+11
+10|cl_bones_plugin_enableDebugLogs
+5|Debug Log Position X|cl_bones_plugin_debuglog_posx|0|10000
+5|Debug Log Position Y|cl_bones_plugin_debuglog_posy|0|10000
+11
+10|cl_bones_plugin_enableJuggler
+5|Juggler Position X|cl_bones_plugin_juggler_posx|0|10000
+5|Juggler Position Y|cl_bones_plugin_juggler_posy|0|10000
+0|Reset Highest Hit Count|resetHitCount
+0|Reset Highest Air Time|resetAirTime
+11

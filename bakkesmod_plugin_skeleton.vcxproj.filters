@@ -21,6 +21,18 @@
     <ClCompile Include="DebugLog.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Juggler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hitbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BakkesPlugin.h">
@@ -30,6 +42,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DebugLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Juggler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hitbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
